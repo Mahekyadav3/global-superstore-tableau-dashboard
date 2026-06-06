@@ -30,8 +30,8 @@ global-superstore-dashboard/
 
 Clone this repository:
 
-bash   git clone https://github.com/Mahekyadav3/global-superstore-dashboard.git
-
+bash   git clone [https://github.com/Mahekyadav3/global-superstore-dashboard.git
+](https://mahekyadav3.github.io/global-superstore-dashboard/)
 Open index.html in any web browser
 The Tableau dashboard will load automatically (requires internet connection)
 
